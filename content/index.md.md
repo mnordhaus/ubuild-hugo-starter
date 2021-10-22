@@ -1,8 +1,8 @@
 +++
-date = ""
+date = 2021-10-06T04:00:00Z
 draft = true
 layout = "blocks"
-title = ""
+title = "dfhdhdfh"
 [[page_sections]]
 background_image = "/uploads/2018/06/21/edit.gif"
 block = "hero-2"
