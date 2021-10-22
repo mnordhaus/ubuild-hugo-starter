@@ -2,7 +2,7 @@
 date = 2018-06-28T17:17:55Z
 draft = true
 layout = "blocks"
-title = "All Available Blocks.b"
+title = "All Available Blocks."
 [[page_sections]]
 block = "header-1"
 logo = "/uploads/2018/06/21/forestry-full.svg"
